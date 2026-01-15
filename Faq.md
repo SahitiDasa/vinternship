@@ -44,7 +44,7 @@ The program includes scheduled live sessions, workshops, and mentorship meetings
 The program will be conducted strictly in **online mode**.
 
 **2.2 Is attendance tracked in this internship?**  
-Attendance is compulsory for the standups that are scheduled for every Monday, Wednesday and Friday at 8:45 PM. For other activities also the attendance is tracked.
+Attendance is compulsory for the standups that are scheduled for every Monday, Wednesday and Friday at 8:45 PM. For other activities also, the attendance is tracked. Attendance will be counted **only if your camera remains ON for the entire Zoom session**. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
 
 **2.3 Do I need to use a specific name or email for the internship?**  
 Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, etc.) for proper tracking of your progress.
